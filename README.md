@@ -1,7 +1,5 @@
 # Implementation-of-Erosion-and-Dilation
 
-### DATE:
-
 ## Aim
 To implement Erosion and Dilation using Python and OpenCV.
 ## Software Required
